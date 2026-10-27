@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bajgai.cloud/sitemap.xml
